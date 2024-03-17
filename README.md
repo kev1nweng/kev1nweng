@@ -1,4 +1,4 @@
-### Hi there 👋 Working on my stuff: 
+### Hi there 👋 
 
 <!--
 **kev1nweng/kev1nweng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
