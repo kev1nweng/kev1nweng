@@ -1,6 +1,6 @@
 # Hi there 👋
 
-中国上海 17 岁准大学生，主要写前端。ENFP。
+18 岁大一学生，主要写前端。ENFP。
 
 - 🔭 正在开发 [ReelSync](https://reel-sync.kev1nweng.space), [StellaVita](https://github.com/Starlight-Intelligence/StellaVita), [Myphlex](https://github.com/kev1nweng/myphlex), etc.
 - 🌱 正在学习 Vue, TypeScript, Rust, Go, etc.
