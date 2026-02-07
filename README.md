@@ -26,14 +26,19 @@
 [![GNOME](https://img.shields.io/badge/GNOME-000?logo=gnome&logoColor=fff)](https://www.gnome.org/)
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-000?logo=kde&logoColor=fff)](https://kde.org/plasma-desktop/)
 
-### 编辑器 & 终端
+### 编辑器、终端、LLM
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
 [![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
 [![Vim](https://img.shields.io/badge/Vim-%2311AB00.svg?logo=vim&logoColor=white)](https://www.vim.org/)
 [![PyCharm](https://img.shields.io/badge/PyCharm-000?logo=pycharm&logoColor=fff)](https://www.jetbrains.com/pycharm/)
-[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![Zsh](https://img.shields.io/badge/Zsh-F15A24?logo=zsh&logoColor=fff)](https://www.zsh.org/)
+[![Xcode](https://img.shields.io/badge/Xcode-007ACC?logo=Xcode&logoColor=white)](https://developer.apple.com/xcode/)&nbsp;&nbsp;
+[![Copilot](https://img.shields.io/badge/Copilot-000?logo=githubcopilot&logoColor=fff)](https://github.com/features/copilot)
+[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](https://github.com/QwenLM/Qwen)
+[![Gemini](https://img.shields.io/badge/Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://gemini.google.com/)
+[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai/)
+[![Mistral](https://img.shields.io/badge/Mistral-FA520F?logo=mistral-ai&logoColor=fff)](https://mistral.ai/)
+[![Zhipu AI](https://img.shields.io/badge/Zhipu%20AI-0078D6?logo=zhipuai&logoColor=fff)](https://www.zhipuai.cn/)
 
 ### 编程语言 & 标记语言
 
@@ -69,7 +74,8 @@
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=fff)](https://www.sqlite.org/)
-[![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma&logoColor=fff)](https://www.prisma.io/)
+[![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma&logoColor=fff)](https://www.prisma.io/)&nbsp;&nbsp;
+[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
 
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](https://bun.sh/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/)
@@ -78,8 +84,7 @@
 [![Homebrew](https://img.shields.io/badge/Homebrew-FB4273?logo=homebrew&logoColor=fff)](https://brew.sh/)
 [![apt](https://img.shields.io/badge/apt-0071C5?logo=debian&logoColor=fff)](https://wiki.debian.org/Apt)
 [![dnf](https://img.shields.io/badge/dnf-FF0000?logo=redhat&logoColor=fff)](https://rpm-software-management.github.io/dnf/)
-[![yay](https://img.shields.io/badge/yay-000?logo=archlinux&logoColor=fff)](https://github.com/Jguer/yay)&nbsp;&nbsp;
-[![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff)](https://git-scm.com/)
+[![yay](https://img.shields.io/badge/yay-000?logo=archlinux&logoColor=fff)](https://github.com/Jguer/yay)
 
 ### 服务（云服务器、CI/CD、网页托管、推理等）
 
@@ -99,7 +104,7 @@
 [![Hugging Face](https://img.shields.io/badge/Hugging%20Face-ffd?logo=huggingface)](https://huggingface.co/)
 [![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-000?logo=google&logoColor=fff)](https://aistudio.google.com/)
 [![Mistral AI Studio](https://img.shields.io/badge/Mistral%20AI%20Studio-FA520F?logo=mistral-ai&logoColor=fff)](https://console.mistral.ai/)
-[![SiliconFlow](https://img.shields.io/badge/SiliconFlow-000?logo=siliconflow&logoColor=fff)](https://siliconflow.cn/)
+[![AI Foundry](https://custom-icon-badges.demolab.com/badge/AI%20Foundry-0089D6?logo=msazure&logoColor=white)](https://azure.microsoft.com/en-us/services/ai-foundry/)
 
 ### 设计 & 创作工具
 
@@ -107,16 +112,17 @@
 [![VEGAS Pro](https://img.shields.io/badge/VEGAS%20Pro-0657ff?logo=vegaspro&logoColor=fff)](https://www.vegascreativesoftware.com/)
 [![Capture One](https://img.shields.io/badge/Capture%20One-fff?logo=captureone&logoColor=000)](https://www.captureone.com/)&nbsp;&nbsp;
 [![Affinity Studio](https://custom-icon-badges.demolab.com/badge/Affinity-A7F175?logo=affinitystudio&logoColor=black)](https://affinity.serif.com/)
-[![Pixelmator Pro](https://img.shields.io/badge/Pixelmator%20Pro-226c70?logo=pixelmator&logoColor=fff)](https://www.pixelmator.com/pro/)
-[![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-FF9A00?logo=adobeillustrator&logoColor=white)](https://www.adobe.com/products/illustrator.html)
-[![Spline](https://img.shields.io/badge/Spline-ff3af3?logo=linear&logoColor=fff)](https://spline.design/)
-[![Inkscape](https://img.shields.io/badge/Inkscape-fff?logo=Inkscape&logoColor=000)](https://inkscape.org/)
-
-[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
-[![PowerPoint](https://img.shields.io/badge/PowerPoint-D0120D?logo=onlyoffice&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint)
-[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
-[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 [![Gimp](https://img.shields.io/badge/Gimp-5C5543?logo=gimp&logoColor=white)](https://www.gimp.org/)&nbsp;&nbsp;
+[![Pixelmator Pro](https://img.shields.io/badge/Pixelmator%20Pro-226c70?logo=pixelmator&logoColor=fff)](https://www.pixelmator.com/pro/)
+[![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?logo=adobephotoshop&logoColor=white)](https://www.adobe.com/products/photoshop.html)
+[![Inkscape](https://img.shields.io/badge/Inkscape-fff?logo=Inkscape&logoColor=000)](https://inkscape.org/)&nbsp;&nbsp;
+[![Obsidian](https://img.shields.io/badge/Obsidian-%23483699.svg?&logo=obsidian&logoColor=white)](https://obsidian.md/)
+[![Typora](https://img.shields.io/badge/Typora-fff?logo=typora&logoColor=000)](https://typora.io/)
+
+[![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?logo=blender&logoColor=white)](https://www.blender.org/)
+[![Spline](https://img.shields.io/badge/Spline-ff3af3?logo=linear&logoColor=fff)](https://spline.design/)
+[![Figma](https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
+[![PowerPoint](https://img.shields.io/badge/PowerPoint-D0120D?logo=onlyoffice&logoColor=white)](https://www.microsoft.com/microsoft-365/powerpoint)
 [![Ableton Live](https://img.shields.io/badge/Ableton%20Live-fff?logo=abletonlive&logoColor=000)](https://www.ableton.com/live/)
 [![FL Studio](https://img.shields.io/badge/FL%20Studio-FE9531?logo=flstudio&logoColor=fff)](https://www.image-line.com/fl-studio/)
 
