@@ -58,14 +58,14 @@
 [![Swift](https://img.shields.io/badge/Swift-F54A2A?logo=swift&logoColor=white)](https://swift.org/)
 [![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](https://www.gnu.org/software/bash/)
 [![R](https://img.shields.io/badge/R-%23276DC3.svg?logo=r&logoColor=white)](https://www.r-project.org/)
-[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)
-
-[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
-[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](https://www.latex-project.org/)
+[![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](https://isocpp.org/)&nbsp;&nbsp;
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JSON](https://img.shields.io/badge/JSON-%23FFFFFF.svg?logo=json&logoColor=black)](https://www.json.org/)
-[![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=fff)](https://yaml.org/)
+
+[![LaTeX](https://img.shields.io/badge/LaTeX-00A0A0?logo=latex&logoColor=fff)](https://www.latex-project.org/)
+[![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?logo=markdown&logoColor=white)](https://daringfireball.net/projects/markdown/)
+[![YAML](https://img.shields.io/badge/YAML-000?logo=yaml&logoColor=fff)](https://yaml.org/)&nbsp;&nbsp;
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](https://scratch.mit.edu/)
 
@@ -76,15 +76,12 @@
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![mdui](https://img.shields.io/badge/mdui-000?logo=mdui&logoColor=fff)](https://www.mdui.org/)
 [![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000?logo=shadcnui&logoColor=fff)](https://ui.shadcn.com/)
-[![soberjs](https://img.shields.io/badge/soberjs-000?logo=soberjs&logoColor=fff)](https://soberjs.com/)
-
+[![soberjs](https://img.shields.io/badge/soberjs-000?logo=soberjs&logoColor=fff)](https://soberjs.com/)&nbsp;&nbsp;
 [![Node.js](https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Flask](https://img.shields.io/badge/Flask-000?logo=flask&logoColor=fff)](https://flask.palletsprojects.com/)
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=fff)](https://www.sqlite.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma&logoColor=fff)](https://www.prisma.io/)
-[![nginx](https://img.shields.io/badge/nginx-009639?logo=nginx&logoColor=fff)](https://www.nginx.com/)
-[![Playwright](https://custom-icon-badges.demolab.com/badge/Playwright-2EAD33?logo=playwright&logoColor=fff)](https://playwright.dev/)
 
 ### 包管理器 & 版本控制
 
