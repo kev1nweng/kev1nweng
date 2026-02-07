@@ -26,18 +26,6 @@
 [![GNOME](https://img.shields.io/badge/GNOME-000?logo=gnome&logoColor=fff)](https://www.gnome.org/)
 [![KDE Plasma](https://img.shields.io/badge/KDE%20Plasma-000?logo=kde&logoColor=fff)](https://kde.org/plasma-desktop/)
 
-### 浏览器 & LLM
-
-[![Google Chrome](https://img.shields.io/badge/Google%20Chrome-4285F4?logo=googlechrome&logoColor=fff)](https://www.google.com/chrome/)
-[![Mozilla Firefox](https://img.shields.io/badge/Mozilla%20Firefox-FF7139?logo=firefox&logoColor=fff)](https://www.mozilla.org/firefox/)
-[![Safari](https://img.shields.io/badge/Safari-257df9?logo=safari&logoColor=fff)](https://www.apple.com/safari/)&nbsp;&nbsp;
-[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-000?logo=githubcopilot&logoColor=fff)](https://github.com/features/copilot)
-[![Qwen](https://custom-icon-badges.demolab.com/badge/Qwen-605CEC?logo=qwen&logoColor=fff)](https://github.com/QwenLM/Qwen)
-[![Google Gemini](https://img.shields.io/badge/Google%20Gemini-886FBF?logo=googlegemini&logoColor=fff)](https://gemini.google.com/)
-[![Claude](https://img.shields.io/badge/Claude-D97757?logo=claude&logoColor=fff)](https://claude.ai/)
-[![Mistral AI](https://img.shields.io/badge/Mistral%20AI-FA520F?logo=mistral-ai&logoColor=fff)](https://mistral.ai/)
-[![Zhipu AI](https://img.shields.io/badge/Zhipu%20AI-0078D6?logo=zhipuai&logoColor=fff)](https://www.zhipuai.cn/)
-
 ### 编辑器 & 终端
 
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](https://code.visualstudio.com/)
@@ -69,7 +57,7 @@
 [![Godot Engine](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine)](https://godotengine.org/)
 [![Scratch](https://img.shields.io/badge/Scratch-4D97FF?logo=scratch&logoColor=fff)](https://scratch.mit.edu/)
 
-### 框架
+### 框架、包管理器、版本控制
 
 [![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vuedotjs&logoColor=fff)](https://vuejs.org/)
 [![Vite](https://img.shields.io/badge/Vite-646CFF?logo=vite&logoColor=fff)](https://vitejs.dev/)
@@ -82,8 +70,6 @@
 [![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![SQLite](https://img.shields.io/badge/SQLite-000?logo=sqlite&logoColor=fff)](https://www.sqlite.org/)
 [![Prisma](https://img.shields.io/badge/Prisma-000?logo=prisma&logoColor=fff)](https://www.prisma.io/)
-
-### 包管理器 & 版本控制
 
 [![Bun](https://img.shields.io/badge/Bun-000?logo=bun&logoColor=fff)](https://bun.sh/)
 [![npm](https://img.shields.io/badge/npm-CB3837?logo=npm&logoColor=fff)](https://www.npmjs.com/)
